@@ -1,0 +1,36 @@
+_repo: Rowlandson-s-Oxford_42960
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Rowlandson, Thomas
+    alias: Rowlandson, T. (Thomas)
+    birthdate: 1756
+    deathdate: 1827
+    gutenberg_agent_id: '28396'
+    url: http://www.gutenberg.org/2009/agents/28396
+covers:
+- cover_type: archival
+  image_path: 42960-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gibbs, A. Hamilton (Arthur Hamilton)
+    alias: Gibbs, Arthur Hamilton
+    birthdate: 1888
+    deathdate: 1964
+    gutenberg_agent_id: '41950'
+    url: http://www.gutenberg.org/2009/agents/41950
+description: ''
+gutenberg_issued: '2013-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42960'
+  lccn: '13001864'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LF'
+- !lcsh 'University of Oxford'
+title: Rowlandson's Oxford
+url: http://www.gutenberg.org/ebooks/42960
